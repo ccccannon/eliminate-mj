@@ -2,8 +2,8 @@
   "__version__": "1.0.1",
   "builder": {
     "common": {
-      "buildPath": "E:\\project\\ccccannon\\eliminate-mj",
-      "outputName": "docs",
+      "buildPath": "project://build",
+      "outputName": "web-mobile",
       "mainBundleCompressionType": "merge_dep",
       "platform": "web-mobile",
       "md5Cache": true,
