@@ -7,7 +7,9 @@
     "buildPath": "project://build",
     "outputName": "web-mobile",
     "mainBundleCompressionType": "merge_dep",
-    "platform": "web-mobile"
+    "platform": "web-mobile",
+    "md5Cache": true,
+    "debug": true
   },
   "BuildTaskManager": {
     "taskMap": {
@@ -16,14 +18,14 @@
         "id": "1745986270587",
         "progress": 1,
         "state": "success",
-        "stage": "run",
-        "message": "2025-4-30 12:12:34 run package E:\\project\\ccccannon\\eliminate-mj\\mahjong\\build\\web-mobile success!",
+        "stage": "build",
+        "message": "2025-4-30 12:35:00 build success in 54878 ms!",
         "options": {
           "name": "mahjong",
           "platform": "web-mobile",
           "buildPath": "project://build",
-          "debug": false,
-          "md5Cache": false,
+          "debug": true,
+          "md5Cache": true,
           "skipCompressTexture": false,
           "sourceMaps": false,
           "polyfills": {
@@ -49,7 +51,7 @@
           "__version__": "1.3.4",
           "web-mobile": []
         },
-        "time": "2025-4-30 12:11",
+        "time": "2025-4-30 12:34",
         "dirty": false
       }
     }

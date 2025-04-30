@@ -5,19 +5,21 @@
       "buildPath": "project://build",
       "outputName": "web-mobile",
       "mainBundleCompressionType": "merge_dep",
-      "platform": "web-mobile"
+      "platform": "web-mobile",
+      "md5Cache": true,
+      "debug": true
     },
     "options": {
       "web-mobile": {
         "orientation": "landscape",
-        "embedWebDebugger": false,
+        "embedWebDebugger": true,
         "__version__": "1.0.1"
       }
     },
     "taskOptionsMap": {
       "1745986270587": {
         "orientation": "landscape",
-        "embedWebDebugger": false,
+        "embedWebDebugger": true,
         "__version__": "1.0.1"
       }
     },
