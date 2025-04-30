@@ -1,0 +1,27 @@
+
+UI_BoJinKaiLaiPaiTeXiao.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+E_02
+  rotate: false
+  xy: 2, 109
+  size: 242, 40
+  orig: 256, 54
+  offset: 7, 7
+  index: -1
+Kuang
+  rotate: false
+  xy: 251, 137
+  size: 148, 262
+  orig: 160, 280
+  offset: 6, 9
+  index: -1
+LiuGuang
+  rotate: false
+  xy: 2, 151
+  size: 247, 248
+  orig: 256, 256
+  offset: 4, 4
+  index: -1

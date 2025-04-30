@@ -1,0 +1,31 @@
+
+
+Hit_HuoYan"常驻光效
+
+Hit_QuanJi"常驻光效
+"Hit_ShouLiJian"常驻光效
+
+Hit_DaoKan"常驻光效
+Hit_Tu"常驻光效
+Hit_Feng"常驻光效
+Hit_LeiDian"常驻光效
+Hit_shui"常驻光效
+	Hit_DU"常驻光效
+$
+Buff_ChiXuHuiXue"常驻光效
+"Buff_GLxiaoguo"常驻光效
+ Buff_RanShao"常驻光效
+ Buff_ZhongDu"常驻光效
+ Buff_XuanYun"常驻光效
+ Buff_ZhiLiao"常驻光效
+!Buff_ChaoFeng"常驻光效
+	Buff_WuDi"常驻光效
+!X_ChuSheng_TX"出生光效
+X_SiWang_TX"死亡光效
+/H_FangWeiYingDao_yuan"技能打断光效
+ role_chuxian"出生音效
+ui_fight"战斗音效
+#	JS_shui01"变水效果材质
+#	JS_hong01"变红效果材质
+%Doppelganger01"变分身材质
+$Nothingness01"变虚无材质

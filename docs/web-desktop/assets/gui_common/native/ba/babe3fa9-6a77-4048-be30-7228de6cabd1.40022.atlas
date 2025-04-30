@@ -1,0 +1,41 @@
+
+hit_zhiliao01.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+E_011
+  rotate: false
+  xy: 258, 258
+  size: 242, 242
+  orig: 256, 256
+  offset: 7, 7
+  index: -1
+E_013
+  rotate: false
+  xy: 258, 14
+  size: 242, 242
+  orig: 256, 256
+  offset: 7, 7
+  index: -1
+E_022
+  rotate: false
+  xy: 2, 256
+  size: 254, 244
+  orig: 256, 256
+  offset: 1, 12
+  index: -1
+E_03
+  rotate: true
+  xy: 186, 26
+  size: 228, 41
+  orig: 256, 55
+  offset: 14, 7
+  index: -1
+E_08
+  rotate: false
+  xy: 2, 72
+  size: 182, 182
+  orig: 256, 256
+  offset: 37, 37
+  index: -1

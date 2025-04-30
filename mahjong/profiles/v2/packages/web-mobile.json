@@ -6,20 +6,20 @@
       "outputName": "web-mobile",
       "mainBundleCompressionType": "merge_dep",
       "platform": "web-mobile",
-      "md5Cache": true,
-      "debug": true
+      "md5Cache": false,
+      "debug": false
     },
     "options": {
       "web-mobile": {
         "orientation": "landscape",
-        "embedWebDebugger": true,
+        "embedWebDebugger": false,
         "__version__": "1.0.1"
       }
     },
     "taskOptionsMap": {
       "1745986270587": {
         "orientation": "landscape",
-        "embedWebDebugger": true,
+        "embedWebDebugger": false,
         "__version__": "1.0.1"
       }
     },

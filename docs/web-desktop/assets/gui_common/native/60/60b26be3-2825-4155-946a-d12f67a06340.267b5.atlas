@@ -1,0 +1,118 @@
+
+UI_ZhaoMu_qz.png
+size: 1102,1102
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+33
+  rotate: false
+  xy: 2, 76
+  size: 497, 1024
+  orig: 497, 1024
+  offset: 0, 0
+  index: -1
+E_08
+  rotate: false
+  xy: 814, 625
+  size: 182, 182
+  orig: 256, 256
+  offset: 37, 37
+  index: -1
+Eff_fangshe_086
+  rotate: false
+  xy: 132, 11
+  size: 100, 63
+  orig: 100, 100
+  offset: 0, 16
+  index: -1
+Eff_fangshe_153
+  rotate: false
+  xy: 947, 316
+  size: 129, 149
+  orig: 140, 150
+  offset: 4, 1
+  index: -1
+Eff_ult_juqi0002
+  rotate: true
+  xy: 465, 3
+  size: 15, 39
+  orig: 19, 50
+  offset: 2, 7
+  index: -1
+bluestarflash
+  rotate: false
+  xy: 972, 495
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+circlelight
+  rotate: false
+  xy: 814, 467
+  size: 156, 156
+  orig: 162, 162
+  offset: 3, 3
+  index: -1
+eff_jianban_014
+  rotate: true
+  xy: 998, 663
+  size: 144, 82
+  orig: 144, 82
+  offset: 0, 0
+  index: -1
+eff_jianban_014_02
+  rotate: false
+  xy: 2, 11
+  size: 128, 63
+  orig: 128, 63
+  offset: 0, 0
+  index: -1
+ggg
+  rotate: true
+  xy: 886, 32
+  size: 204, 203
+  orig: 204, 204
+  offset: 0, 0
+  index: -1
+guochang
+  rotate: false
+  xy: 501, 435
+  size: 311, 665
+  orig: 339, 687
+  offset: 12, 11
+  index: -1
+guochang1
+  rotate: false
+  xy: 501, 238
+  size: 444, 195
+  orig: 514, 210
+  offset: 36, 14
+  index: -1
+hei
+  rotate: true
+  xy: 465, 20
+  size: 54, 78
+  orig: 54, 78
+  offset: 0, 0
+  index: -1
+iocn_1
+  rotate: true
+  xy: 545, 12
+  size: 224, 339
+  orig: 230, 346
+  offset: 3, 4
+  index: -1
+lingxing04
+  rotate: false
+  xy: 234, 16
+  size: 229, 58
+  orig: 229, 58
+  offset: 0, 0
+  index: -1
+zi
+  rotate: false
+  xy: 814, 809
+  size: 201, 291
+  orig: 205, 298
+  offset: 2, 5
+  index: -1

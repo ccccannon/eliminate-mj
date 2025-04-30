@@ -1,0 +1,111 @@
+
+fish_10006.png
+size: 256,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+die_06_1
+  rotate: false
+  xy: 164, 242
+  size: 47, 12
+  orig: 47, 12
+  offset: 0, 0
+  index: -1
+die_06_10
+  rotate: true
+  xy: 213, 179
+  size: 19, 23
+  orig: 19, 23
+  offset: 0, 0
+  index: -1
+die_06_11
+  rotate: false
+  xy: 164, 173
+  size: 23, 19
+  orig: 23, 19
+  offset: 0, 0
+  index: -1
+die_06_12
+  rotate: false
+  xy: 194, 218
+  size: 17, 22
+  orig: 17, 22
+  offset: 0, 0
+  index: -1
+die_06_13
+  rotate: false
+  xy: 236, 156
+  size: 18, 21
+  orig: 18, 21
+  offset: 0, 0
+  index: -1
+die_06_14
+  rotate: false
+  xy: 194, 194
+  size: 17, 22
+  orig: 17, 22
+  offset: 0, 0
+  index: -1
+die_06_15
+  rotate: true
+  xy: 213, 158
+  size: 19, 21
+  orig: 19, 21
+  offset: 0, 0
+  index: -1
+die_06_16
+  rotate: false
+  xy: 2, 163
+  size: 160, 91
+  orig: 160, 91
+  offset: 0, 0
+  index: -1
+die_06_3
+  rotate: true
+  xy: 213, 224
+  size: 30, 33
+  orig: 30, 33
+  offset: 0, 0
+  index: -1
+die_06_4
+  rotate: false
+  xy: 164, 216
+  size: 28, 24
+  orig: 28, 24
+  offset: 0, 0
+  index: -1
+die_06_5
+  rotate: false
+  xy: 213, 200
+  size: 27, 22
+  orig: 27, 22
+  offset: 0, 0
+  index: -1
+die_06_6
+  rotate: true
+  xy: 164, 152
+  size: 19, 22
+  orig: 19, 22
+  offset: 0, 0
+  index: -1
+die_06_7
+  rotate: true
+  xy: 164, 194
+  size: 20, 25
+  orig: 20, 25
+  offset: 0, 0
+  index: -1
+die_06_8
+  rotate: false
+  xy: 188, 149
+  size: 20, 20
+  orig: 21, 20
+  offset: 0, 0
+  index: -1
+die_06_9
+  rotate: false
+  xy: 189, 171
+  size: 22, 21
+  orig: 22, 21
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,27 @@
+
+UI_GongFaBGguang.png
+size: 256,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+gd1
+  rotate: false
+  xy: 176, 226
+  size: 23, 24
+  orig: 29, 29
+  offset: 3, 3
+  index: -1
+glow
+  rotate: false
+  xy: 2, 87
+  size: 172, 163
+  orig: 224, 202
+  offset: 27, 23
+  index: -1
+guangsu
+  rotate: false
+  xy: 2, 2
+  size: 202, 83
+  orig: 230, 115
+  offset: 17, 16
+  index: -1

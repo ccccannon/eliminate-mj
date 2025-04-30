@@ -1,0 +1,118 @@
+
+effect_zixia.png
+size: 385,385
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/Eff_daoguang_010
+  rotate: false
+  xy: 246, 213
+  size: 122, 61
+  orig: 128, 71
+  offset: 5, 3
+  index: -1
+effect/Eff_daoguang_111
+  rotate: false
+  xy: 126, 264
+  size: 118, 119
+  orig: 122, 119
+  offset: 0, 0
+  index: -1
+effect/Eff_fangshe_059
+  rotate: false
+  xy: 307, 51
+  size: 75, 75
+  orig: 76, 79
+  offset: 1, 2
+  index: -1
+effect/Eff_fangshe_192_02
+  rotate: true
+  xy: 227, 51
+  size: 75, 78
+  orig: 75, 78
+  offset: 0, 0
+  index: -1
+effect/Eff_quan
+  rotate: false
+  xy: 126, 174
+  size: 105, 88
+  orig: 106, 89
+  offset: 0, 1
+  index: -1
+effect/Eff_quan_140
+  rotate: false
+  xy: 233, 128
+  size: 98, 83
+  orig: 100, 85
+  offset: 1, 1
+  index: -1
+effect/eff_jianban_008
+  rotate: false
+  xy: 2, 9
+  size: 112, 121
+  orig: 127, 121
+  offset: 7, 0
+  index: -1
+effect/eff_jianshe_100_01
+  rotate: true
+  xy: 333, 168
+  size: 43, 40
+  orig: 47, 42
+  offset: 2, 1
+  index: -1
+effect/eff_jianshe_100_02
+  rotate: false
+  xy: 116, 2
+  size: 88, 81
+  orig: 96, 86
+  offset: 4, 3
+  index: -1
+effect/eff_jianshe_100_03
+  rotate: false
+  xy: 246, 276
+  size: 125, 107
+  orig: 133, 116
+  offset: 4, 5
+  index: -1
+effect/eff_jianshe_32
+  rotate: false
+  xy: 2, 255
+  size: 122, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+effect/eff_lizi_203
+  rotate: false
+  xy: 333, 135
+  size: 31, 31
+  orig: 36, 36
+  offset: 2, 3
+  index: -1
+effect/eff_yan_154
+  rotate: false
+  xy: 206, 12
+  size: 23, 37
+  orig: 29, 39
+  offset: 3, 0
+  index: -1
+effect/lizi02
+  rotate: false
+  xy: 231, 26
+  size: 22, 23
+  orig: 24, 25
+  offset: 1, 1
+  index: -1
+effect/shuimo_00046
+  rotate: false
+  xy: 2, 132
+  size: 117, 121
+  orig: 128, 128
+  offset: 6, 4
+  index: -1
+effect/zha
+  rotate: true
+  xy: 121, 85
+  size: 87, 104
+  orig: 88, 105
+  offset: 0, 0
+  index: -1

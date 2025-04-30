@@ -1,0 +1,13 @@
+
+UI_BuZhenJieMianChuFaZhenYin.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+YuanHuan
+  rotate: false
+  xy: 2, 11
+  size: 285, 276
+  orig: 512, 512
+  offset: 116, 112
+  index: -1

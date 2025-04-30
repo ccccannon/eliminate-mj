@@ -1,0 +1,34 @@
+
+buff_xuanyun01.png
+size: 400,400
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+eff_glow_006
+  rotate: false
+  xy: 224, 152
+  size: 109, 104
+  orig: 128, 128
+  offset: 10, 13
+  index: -1
+qiang
+  rotate: false
+  xy: 335, 193
+  size: 63, 63
+  orig: 63, 63
+  offset: 0, 0
+  index: -1
+quan
+  rotate: false
+  xy: 2, 179
+  size: 220, 219
+  orig: 220, 219
+  offset: 0, 0
+  index: -1
+quan2
+  rotate: true
+  xy: 224, 258
+  size: 140, 147
+  orig: 174, 159
+  offset: 17, 6
+  index: -1

@@ -1,0 +1,13 @@
+
+WG_wq_01_0.png
+size: 276,276
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+WG_wq_01_2
+  rotate: false
+  xy: 2, 12
+  size: 272, 262
+  orig: 320, 320
+  offset: 16, 28
+  index: -1

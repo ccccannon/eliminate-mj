@@ -1,0 +1,13 @@
+
+WG_bs_01.png
+size: 504,504
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+WG_bs_03
+  rotate: false
+  xy: 2, 72
+  size: 498, 428
+  orig: 512, 444
+  offset: 6, 8
+  index: -1

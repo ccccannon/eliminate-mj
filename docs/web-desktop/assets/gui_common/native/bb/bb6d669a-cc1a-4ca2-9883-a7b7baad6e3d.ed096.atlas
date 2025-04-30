@@ -1,0 +1,55 @@
+
+fish_10007.png
+size: 128,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+idle_01
+  rotate: false
+  xy: 2, 56
+  size: 68, 68
+  orig: 68, 68
+  offset: 0, 0
+  index: -1
+idle_02
+  rotate: false
+  xy: 2, 17
+  size: 47, 37
+  orig: 47, 37
+  offset: 0, 0
+  index: -1
+idle_03
+  rotate: true
+  xy: 51, 24
+  size: 30, 48
+  orig: 30, 48
+  offset: 0, 0
+  index: -1
+idle_04
+  rotate: false
+  xy: 72, 76
+  size: 30, 48
+  orig: 30, 48
+  offset: 0, 0
+  index: -1
+idle_05
+  rotate: true
+  xy: 101, 52
+  size: 22, 20
+  orig: 22, 20
+  offset: 0, 0
+  index: -1
+idle_06
+  rotate: true
+  xy: 104, 102
+  size: 22, 20
+  orig: 22, 20
+  offset: 0, 0
+  index: -1
+idle_07
+  rotate: false
+  xy: 72, 65
+  size: 14, 9
+  orig: 14, 9
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,27 @@
+
+UI_CaiJinKaiLaiPaiTeXiao.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+E_02
+  rotate: true
+  xy: 150, 20
+  size: 240, 40
+  orig: 256, 54
+  offset: 8, 7
+  index: -1
+Kuang
+  rotate: false
+  xy: 2, 2
+  size: 146, 258
+  orig: 158, 280
+  offset: 6, 11
+  index: -1
+LiuGuang
+  rotate: false
+  xy: 2, 262
+  size: 247, 248
+  orig: 256, 256
+  offset: 4, 4
+  index: -1

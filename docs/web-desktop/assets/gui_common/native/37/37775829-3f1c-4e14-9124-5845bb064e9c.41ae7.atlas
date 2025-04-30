@@ -1,0 +1,62 @@
+
+UI_ZhuangBeiXiLianTeXiao.png
+size: 2019,132
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+GuoChang_000
+  rotate: false
+  xy: 2, 2
+  size: 256, 128
+  orig: 256, 128
+  offset: 0, 0
+  index: -1
+GuoChang_001
+  rotate: false
+  xy: 260, 2
+  size: 256, 128
+  orig: 256, 128
+  offset: 0, 0
+  index: -1
+GuoChang_002
+  rotate: false
+  xy: 518, 2
+  size: 256, 128
+  orig: 256, 128
+  offset: 0, 0
+  index: -1
+GuoChang_003
+  rotate: false
+  xy: 776, 2
+  size: 256, 128
+  orig: 256, 128
+  offset: 0, 0
+  index: -1
+GuoChang_004
+  rotate: false
+  xy: 1034, 2
+  size: 256, 128
+  orig: 256, 128
+  offset: 0, 0
+  index: -1
+GuoChang_005
+  rotate: false
+  xy: 1292, 2
+  size: 256, 128
+  orig: 256, 128
+  offset: 0, 0
+  index: -1
+GuoChang_006
+  rotate: false
+  xy: 1808, 2
+  size: 209, 128
+  orig: 256, 128
+  offset: 47, 0
+  index: -1
+GuoChang_007
+  rotate: false
+  xy: 1550, 2
+  size: 256, 128
+  orig: 256, 128
+  offset: 0, 0
+  index: -1

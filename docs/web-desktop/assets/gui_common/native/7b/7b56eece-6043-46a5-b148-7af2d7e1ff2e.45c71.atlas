@@ -1,0 +1,48 @@
+
+fish_10001.png
+size: 128,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+die_01_1
+  rotate: false
+  xy: 33, 96
+  size: 16, 6
+  orig: 16, 6
+  offset: 0, 0
+  index: -1
+die_01_2
+  rotate: false
+  xy: 2, 104
+  size: 67, 18
+  orig: 67, 18
+  offset: 0, 0
+  index: -1
+die_01_3
+  rotate: false
+  xy: 19, 90
+  size: 12, 12
+  orig: 14, 14
+  offset: 1, 1
+  index: -1
+die_01_4
+  rotate: true
+  xy: 2, 88
+  size: 14, 15
+  orig: 14, 15
+  offset: 0, 0
+  index: -1
+die_01_5
+  rotate: true
+  xy: 71, 101
+  size: 21, 28
+  orig: 21, 28
+  offset: 0, 0
+  index: -1
+die_01_6
+  rotate: false
+  xy: 101, 94
+  size: 21, 28
+  orig: 21, 28
+  offset: 0, 0
+  index: -1

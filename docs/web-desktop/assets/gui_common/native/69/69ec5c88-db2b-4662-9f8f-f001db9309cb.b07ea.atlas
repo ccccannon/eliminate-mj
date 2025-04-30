@@ -1,0 +1,55 @@
+
+fish_10010.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+idle_17_1
+  rotate: false
+  xy: 466, 370
+  size: 25, 18
+  orig: 25, 19
+  offset: 0, 1
+  index: -1
+idle_17_2
+  rotate: true
+  xy: 466, 441
+  size: 61, 33
+  orig: 63, 33
+  offset: 0, 0
+  index: -1
+idle_17_3
+  rotate: false
+  xy: 2, 312
+  size: 396, 190
+  orig: 396, 190
+  offset: 0, 0
+  index: -1
+idle_17_4
+  rotate: false
+  xy: 466, 390
+  size: 36, 23
+  orig: 36, 23
+  offset: 0, 0
+  index: -1
+idle_17_5
+  rotate: false
+  xy: 466, 415
+  size: 36, 24
+  orig: 36, 24
+  offset: 0, 0
+  index: -1
+idle_17_6
+  rotate: false
+  xy: 400, 441
+  size: 64, 61
+  orig: 64, 61
+  offset: 0, 0
+  index: -1
+idle_17_7
+  rotate: false
+  xy: 400, 378
+  size: 64, 61
+  orig: 64, 61
+  offset: 0, 0
+  index: -1

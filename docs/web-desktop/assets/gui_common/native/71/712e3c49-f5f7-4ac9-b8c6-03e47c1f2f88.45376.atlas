@@ -1,0 +1,13 @@
+
+buff_pansiqianyin01.png
+size: 440,440
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+wang2
+  rotate: false
+  xy: 2, 14
+  size: 433, 421
+  orig: 433, 421
+  offset: 0, 0
+  index: -1

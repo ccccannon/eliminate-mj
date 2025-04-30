@@ -1,0 +1,265 @@
+
+UI_BaoXiangDiaoLuo.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+5D_LQ_box_b1
+  rotate: false
+  xy: 2, 153
+  size: 128, 120
+  orig: 128, 120
+  offset: 0, 0
+  index: -1
+5D_LQ_box_g1
+  rotate: true
+  xy: 2, 23
+  size: 128, 120
+  orig: 128, 120
+  offset: 0, 0
+  index: -1
+5D_LQ_box_p1
+  rotate: true
+  xy: 124, 23
+  size: 128, 120
+  orig: 128, 120
+  offset: 0, 0
+  index: -1
+5D_LQ_box_r1
+  rotate: true
+  xy: 194, 175
+  size: 128, 120
+  orig: 128, 120
+  offset: 0, 0
+  index: -1
+effect/skill1/bbao
+  rotate: false
+  xy: 166, 398
+  size: 34, 30
+  orig: 40, 35
+  offset: 3, 3
+  index: -1
+effect/skill1/bjbao
+  rotate: false
+  xy: 380, 248
+  size: 80, 64
+  orig: 83, 68
+  offset: 1, 2
+  index: -1
+effect/skill1/gz
+  rotate: false
+  xy: 2, 475
+  size: 227, 35
+  orig: 234, 35
+  offset: 3, 0
+  index: -1
+effect/skill1/lzfy/lzfy_0001
+  rotate: false
+  xy: 172, 454
+  size: 55, 19
+  orig: 75, 30
+  offset: 11, 6
+  index: -1
+effect/skill1/lzfy/lzfy_0002
+  rotate: false
+  xy: 151, 376
+  size: 58, 20
+  orig: 75, 30
+  offset: 9, 5
+  index: -1
+effect/skill1/lzfy/lzfy_0003
+  rotate: false
+  xy: 212, 305
+  size: 63, 22
+  orig: 75, 30
+  offset: 6, 4
+  index: -1
+effect/skill1/lzfy/lzfy_0005
+  rotate: true
+  xy: 462, 237
+  size: 75, 27
+  orig: 75, 30
+  offset: 0, 1
+  index: -1
+effect/skill1/lzfy/lzfy_0007
+  rotate: true
+  xy: 316, 231
+  size: 73, 26
+  orig: 75, 30
+  offset: 1, 2
+  index: -1
+effect/skill1/lzfy/lzfy_0009
+  rotate: false
+  xy: 372, 220
+  size: 71, 26
+  orig: 75, 30
+  offset: 2, 2
+  index: -1
+effect/skill1/lzfy/lzfy_0011
+  rotate: true
+  xy: 344, 232
+  size: 72, 26
+  orig: 75, 30
+  offset: 1, 2
+  index: -1
+effect/skill1/lzfy/lzfy_0013
+  rotate: true
+  xy: 186, 305
+  size: 69, 24
+  orig: 75, 30
+  offset: 4, 3
+  index: -1
+effect/skill1/lzfy/lzfy_0015
+  rotate: true
+  xy: 380, 377
+  size: 69, 24
+  orig: 75, 30
+  offset: 4, 3
+  index: -1
+effect/skill1/lzfy/lzfy_0017
+  rotate: false
+  xy: 445, 213
+  size: 63, 22
+  orig: 75, 30
+  offset: 9, 4
+  index: -1
+effect/skill1/lzfy/lzfy_0019
+  rotate: false
+  xy: 172, 430
+  size: 38, 22
+  orig: 75, 30
+  offset: 35, 4
+  index: -1
+effect/skill1/qx
+  rotate: false
+  xy: 277, 306
+  size: 101, 99
+  orig: 115, 105
+  offset: 7, 2
+  index: -1
+k
+  rotate: false
+  xy: 407, 407
+  size: 103, 103
+  orig: 103, 103
+  offset: 0, 0
+  index: -1
+lizi
+  rotate: false
+  xy: 316, 149
+  size: 70, 69
+  orig: 80, 80
+  offset: 6, 4
+  index: -1
+txtu_ (112)
+  rotate: false
+  xy: 380, 314
+  size: 122, 61
+  orig: 124, 62
+  offset: 1, 0
+  index: -1
+xt_000
+  rotate: true
+  xy: 231, 479
+  size: 31, 174
+  orig: 35, 234
+  offset: 3, 31
+  index: -1
+xt_001
+  rotate: true
+  xy: 2, 307
+  size: 31, 138
+  orig: 35, 234
+  offset: 3, 52
+  index: -1
+xt_002
+  rotate: false
+  xy: 212, 329
+  size: 17, 123
+  orig: 35, 234
+  offset: 17, 43
+  index: -1
+xt_003
+  rotate: false
+  xy: 151, 249
+  size: 33, 125
+  orig: 35, 234
+  offset: 1, 54
+  index: -1
+xt_004
+  rotate: false
+  xy: 231, 329
+  size: 31, 117
+  orig: 35, 234
+  offset: 1, 75
+  index: -1
+xt_005
+  rotate: true
+  xy: 231, 448
+  size: 29, 171
+  orig: 35, 234
+  offset: 3, 40
+  index: -1
+xt_006
+  rotate: true
+  xy: 2, 340
+  size: 29, 146
+  orig: 35, 234
+  offset: 3, 53
+  index: -1
+xt_007
+  rotate: true
+  xy: 264, 417
+  size: 29, 110
+  orig: 35, 234
+  offset: 3, 76
+  index: -1
+xt_008
+  rotate: false
+  xy: 162, 165
+  size: 30, 82
+  orig: 35, 234
+  offset: 3, 77
+  index: -1
+xt_009
+  rotate: true
+  xy: 2, 275
+  size: 30, 131
+  orig: 35, 234
+  offset: 3, 37
+  index: -1
+xt_010
+  rotate: true
+  xy: 2, 440
+  size: 33, 168
+  orig: 35, 234
+  offset: 0, 22
+  index: -1
+xt_011
+  rotate: true
+  xy: 2, 405
+  size: 33, 162
+  orig: 35, 234
+  offset: 0, 33
+  index: -1
+xt_012
+  rotate: false
+  xy: 132, 157
+  size: 28, 90
+  orig: 35, 234
+  offset: 0, 50
+  index: -1
+xt_013
+  rotate: true
+  xy: 406, 377
+  size: 28, 97
+  orig: 35, 234
+  offset: 0, 69
+  index: -1
+xt_014
+  rotate: true
+  xy: 2, 371
+  size: 32, 147
+  orig: 35, 234
+  offset: 0, 42
+  index: -1

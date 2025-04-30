@@ -1,0 +1,13 @@
+
+WG_ts_01.png
+size: 276,276
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+WG_ts_04
+  rotate: false
+  xy: 2, 98
+  size: 269, 173
+  orig: 380, 380
+  offset: 54, 91
+  index: -1

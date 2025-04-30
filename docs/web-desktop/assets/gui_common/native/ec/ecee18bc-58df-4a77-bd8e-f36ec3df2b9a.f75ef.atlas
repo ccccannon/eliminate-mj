@@ -1,0 +1,20 @@
+
+UI_ShengJieChengGong.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+GuangYun
+  rotate: false
+  xy: 2, 48
+  size: 182, 182
+  orig: 256, 256
+  offset: 37, 37
+  index: -1
+WenZi
+  rotate: false
+  xy: 2, 232
+  size: 332, 102
+  orig: 334, 104
+  offset: 1, 1
+  index: -1

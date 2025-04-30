@@ -1,0 +1,272 @@
+
+extra_leiji01.png
+size: 574,574
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/Eff_dilie_005
+  rotate: false
+  xy: 265, 406
+  size: 126, 127
+  orig: 128, 128
+  offset: 2, 1
+  index: -1
+effect/Eff_dilie_019
+  rotate: false
+  xy: 393, 414
+  size: 110, 119
+  orig: 128, 128
+  offset: 7, 8
+  index: -1
+effect/Eff_fangshe_026
+  rotate: false
+  xy: 265, 287
+  size: 118, 117
+  orig: 128, 128
+  offset: 7, 5
+  index: -1
+effect/Eff_shandian_032_01
+  rotate: true
+  xy: 2, 218
+  size: 248, 35
+  orig: 256, 64
+  offset: 4, 17
+  index: -1
+effect/Eff_shandian_032_02
+  rotate: false
+  xy: 2, 516
+  size: 246, 56
+  orig: 256, 64
+  offset: 2, 5
+  index: -1
+effect/Eff_shandian_032_03
+  rotate: false
+  xy: 250, 535
+  size: 248, 37
+  orig: 256, 64
+  offset: 0, 12
+  index: -1
+effect/Eff_shandian_032_04
+  rotate: false
+  xy: 2, 468
+  size: 240, 46
+  orig: 256, 64
+  offset: 7, 7
+  index: -1
+effect/Eff_shandian_079_01
+  rotate: false
+  xy: 367, 183
+  size: 57, 102
+  orig: 120, 219
+  offset: 49, 112
+  index: -1
+effect/Eff_shandian_079_02
+  rotate: false
+  xy: 2, 18
+  size: 57, 198
+  orig: 120, 219
+  offset: 41, 12
+  index: -1
+effect/Eff_shandian_079_03
+  rotate: false
+  xy: 39, 267
+  size: 83, 199
+  orig: 120, 219
+  offset: 30, 6
+  index: -1
+effect/Eff_shandian_079_04
+  rotate: false
+  xy: 124, 267
+  size: 82, 199
+  orig: 120, 219
+  offset: 31, 6
+  index: -1
+effect/Eff_shandian_079_05
+  rotate: false
+  xy: 124, 267
+  size: 82, 199
+  orig: 120, 219
+  offset: 31, 6
+  index: -1
+effect/Eff_shandian_079_06
+  rotate: true
+  xy: 61, 2
+  size: 91, 179
+  orig: 120, 219
+  offset: 25, 1
+  index: -1
+effect/Eff_shandian_079_07
+  rotate: false
+  xy: 61, 95
+  size: 101, 170
+  orig: 120, 219
+  offset: 10, 0
+  index: -1
+effect/Eff_shandian_079_08
+  rotate: false
+  xy: 164, 95
+  size: 101, 170
+  orig: 120, 219
+  offset: 10, 0
+  index: -1
+effect/Eff_shandian_079_09
+  rotate: false
+  xy: 267, 184
+  size: 98, 101
+  orig: 120, 219
+  offset: 4, 5
+  index: -1
+effect/chongji
+  rotate: true
+  xy: 208, 338
+  size: 128, 55
+  orig: 128, 70
+  offset: 0, 7
+  index: -1
+effect/eff_glow_006
+  rotate: false
+  xy: 267, 100
+  size: 85, 82
+  orig: 100, 100
+  offset: 8, 10
+  index: -1
+effect/eff_yan_167_01
+  rotate: false
+  xy: 469, 115
+  size: 21, 48
+  orig: 49, 95
+  offset: 14, 3
+  index: -1
+effect/eff_yan_167_011
+  rotate: false
+  xy: 492, 127
+  size: 21, 48
+  orig: 49, 95
+  offset: 14, 3
+  index: -1
+effect/eff_yan_167_02
+  rotate: false
+  xy: 385, 287
+  size: 43, 72
+  orig: 49, 95
+  offset: 3, 2
+  index: -1
+effect/eff_yan_167_022
+  rotate: false
+  xy: 525, 144
+  size: 43, 74
+  orig: 49, 95
+  offset: 3, 2
+  index: -1
+effect/eff_yan_167_03
+  rotate: false
+  xy: 354, 3
+  size: 45, 78
+  orig: 49, 95
+  offset: 2, 5
+  index: -1
+effect/eff_yan_167_033
+  rotate: false
+  xy: 486, 271
+  size: 46, 88
+  orig: 49, 95
+  offset: 1, 5
+  index: -1
+effect/eff_yan_167_04
+  rotate: true
+  xy: 401, 22
+  size: 46, 74
+  orig: 49, 95
+  offset: 2, 11
+  index: -1
+effect/eff_yan_167_044
+  rotate: false
+  xy: 477, 177
+  size: 46, 81
+  orig: 49, 95
+  offset: 2, 11
+  index: -1
+effect/eff_yan_167_05
+  rotate: false
+  xy: 525, 220
+  size: 47, 49
+  orig: 49, 95
+  offset: 1, 44
+  index: -1
+effect/eff_yan_167_055
+  rotate: true
+  xy: 505, 418
+  size: 47, 52
+  orig: 49, 95
+  offset: 1, 43
+  index: -1
+effect/lizi02
+  rotate: true
+  xy: 559, 429
+  size: 36, 13
+  orig: 37, 15
+  offset: 1, 1
+  index: -1
+effect/shitou
+  rotate: true
+  xy: 208, 276
+  size: 60, 51
+  orig: 60, 51
+  offset: 0, 0
+  index: -1
+effect/yanwu01
+  rotate: true
+  xy: 430, 260
+  size: 99, 54
+  orig: 128, 64
+  offset: 12, 1
+  index: -1
+effect/yanwu02
+  rotate: true
+  xy: 293, 4
+  size: 94, 59
+  orig: 128, 64
+  offset: 19, 1
+  index: -1
+effect/yanwu03
+  rotate: true
+  xy: 354, 83
+  size: 98, 62
+  orig: 128, 64
+  offset: 18, 1
+  index: -1
+effect/yanwu04
+  rotate: true
+  xy: 505, 467
+  size: 105, 62
+  orig: 128, 64
+  offset: 12, 1
+  index: -1
+effect/yanwu05
+  rotate: false
+  xy: 393, 361
+  size: 104, 51
+  orig: 128, 64
+  offset: 13, 1
+  index: -1
+effect/yanwu06
+  rotate: true
+  xy: 242, 3
+  size: 90, 49
+  orig: 128, 64
+  offset: 23, 1
+  index: -1
+effect/yanwu07
+  rotate: true
+  xy: 426, 165
+  size: 93, 49
+  orig: 128, 64
+  offset: 18, 1
+  index: -1
+effect/yanwu08
+  rotate: true
+  xy: 418, 70
+  size: 93, 49
+  orig: 128, 64
+  offset: 19, 1
+  index: -1

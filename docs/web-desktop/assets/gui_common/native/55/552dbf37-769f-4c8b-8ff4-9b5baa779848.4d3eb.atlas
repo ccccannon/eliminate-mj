@@ -1,0 +1,55 @@
+
+buff_gandian01.png
+size: 242,242
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/sd_0001
+  rotate: false
+  xy: 2, 157
+  size: 99, 83
+  orig: 208, 150
+  offset: 25, 41
+  index: -1
+effect/sd_0003
+  rotate: false
+  xy: 103, 156
+  size: 95, 84
+  orig: 208, 150
+  offset: 74, 38
+  index: -1
+effect/sd_0005
+  rotate: false
+  xy: 96, 84
+  size: 92, 70
+  orig: 208, 150
+  offset: 85, 43
+  index: -1
+effect/sd_0006
+  rotate: false
+  xy: 74, 15
+  size: 78, 55
+  orig: 208, 150
+  offset: 95, 50
+  index: -1
+effect/sd_0008
+  rotate: true
+  xy: 2, 2
+  size: 68, 70
+  orig: 208, 150
+  offset: 76, 43
+  index: -1
+effect/sd_0010
+  rotate: true
+  xy: 2, 72
+  size: 83, 92
+  orig: 208, 150
+  offset: 76, 21
+  index: -1
+effect/sd_0012
+  rotate: false
+  xy: 154, 14
+  size: 57, 68
+  orig: 208, 150
+  offset: 79, 44
+  index: -1

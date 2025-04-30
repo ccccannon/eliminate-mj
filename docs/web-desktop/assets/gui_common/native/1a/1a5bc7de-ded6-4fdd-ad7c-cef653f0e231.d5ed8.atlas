@@ -1,0 +1,146 @@
+
+hit_fuhuo02.png
+size: 784,784
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+E_015
+  rotate: false
+  xy: 2, 292
+  size: 232, 232
+  orig: 232, 232
+  offset: 0, 0
+  index: -1
+E_018
+  rotate: false
+  xy: 2, 526
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+Eff_quan_69
+  rotate: false
+  xy: 508, 71
+  size: 104, 94
+  orig: 106, 98
+  offset: 1, 2
+  index: -1
+T17
+  rotate: false
+  xy: 236, 288
+  size: 126, 236
+  orig: 126, 237
+  offset: 0, 1
+  index: -1
+eff_glow_006
+  rotate: false
+  xy: 397, 61
+  size: 109, 104
+  orig: 128, 128
+  offset: 10, 13
+  index: -1
+eff_wave2
+  rotate: true
+  xy: 754, 713
+  size: 69, 24
+  orig: 70, 24
+  offset: 1, 0
+  index: -1
+fuhuo
+  rotate: false
+  xy: 260, 551
+  size: 213, 231
+  orig: 230, 232
+  offset: 2, 1
+  index: -1
+jianbian02
+  rotate: false
+  xy: 2, 31
+  size: 42, 26
+  orig: 42, 26
+  offset: 0, 0
+  index: -1
+magiccircle_white
+  rotate: true
+  xy: 316, 26
+  size: 245, 79
+  orig: 247, 81
+  offset: 1, 1
+  index: -1
+quan
+  rotate: false
+  xy: 2, 59
+  size: 213, 231
+  orig: 230, 232
+  offset: 2, 1
+  index: -1
+star
+  rotate: true
+  xy: 676, 165
+  size: 96, 93
+  orig: 114, 97
+  offset: 9, 3
+  index: -1
+xian_00000
+  rotate: false
+  xy: 475, 460
+  size: 277, 96
+  orig: 277, 97
+  offset: 0, 0
+  index: -1
+xian_00001
+  rotate: false
+  xy: 475, 685
+  size: 277, 97
+  orig: 277, 97
+  offset: 0, 0
+  index: -1
+xian_00002
+  rotate: false
+  xy: 463, 263
+  size: 277, 96
+  orig: 277, 97
+  offset: 0, 1
+  index: -1
+xian_00004
+  rotate: false
+  xy: 475, 586
+  size: 277, 97
+  orig: 277, 97
+  offset: 0, 0
+  index: -1
+xian_00006
+  rotate: true
+  xy: 364, 273
+  size: 276, 97
+  orig: 277, 97
+  offset: 0, 0
+  index: -1
+xian_00008
+  rotate: false
+  xy: 463, 361
+  size: 277, 97
+  orig: 277, 97
+  offset: 0, 0
+  index: -1
+xian_00010
+  rotate: false
+  xy: 397, 167
+  size: 277, 94
+  orig: 277, 97
+  offset: 0, 2
+  index: -1
+xian_00012
+  rotate: true
+  xy: 217, 12
+  size: 274, 97
+  orig: 277, 97
+  offset: 0, 0
+  index: -1
+标准身高307
+  rotate: true
+  xy: 475, 558
+  size: 26, 307
+  orig: 26, 307
+  offset: 0, 0
+  index: -1

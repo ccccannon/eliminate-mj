@@ -1,0 +1,125 @@
+
+buff_zhuoshao01.png
+size: 222,222
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+hh_01
+  rotate: false
+  xy: 186, 167
+  size: 22, 26
+  orig: 64, 64
+  offset: 22, 20
+  index: -1
+hh_02
+  rotate: true
+  xy: 174, 44
+  size: 24, 29
+  orig: 64, 64
+  offset: 20, 19
+  index: -1
+hh_03
+  rotate: true
+  xy: 156, 6
+  size: 32, 50
+  orig: 64, 64
+  offset: 16, 8
+  index: -1
+hh_04
+  rotate: true
+  xy: 112, 2
+  size: 36, 42
+  orig: 64, 64
+  offset: 18, 2
+  index: -1
+hh_05
+  rotate: true
+  xy: 56, 2
+  size: 40, 54
+  orig: 64, 64
+  offset: 14, 0
+  index: -1
+hh_06
+  rotate: true
+  xy: 126, 116
+  size: 44, 58
+  orig: 64, 64
+  offset: 10, 0
+  index: -1
+hh_07
+  rotate: false
+  xy: 124, 40
+  size: 48, 58
+  orig: 64, 64
+  offset: 6, 0
+  index: -1
+hh_08
+  rotate: false
+  xy: 2, 156
+  size: 56, 64
+  orig: 64, 64
+  offset: 2, 0
+  index: -1
+hh_09
+  rotate: false
+  xy: 66, 100
+  size: 58, 60
+  orig: 64, 64
+  offset: 2, 0
+  index: -1
+hh_10
+  rotate: true
+  xy: 124, 162
+  size: 58, 60
+  orig: 64, 64
+  offset: 2, 0
+  index: -1
+hh_11
+  rotate: true
+  xy: 2, 94
+  size: 60, 62
+  orig: 64, 64
+  offset: 2, 0
+  index: -1
+hh_12
+  rotate: true
+  xy: 60, 162
+  size: 58, 62
+  orig: 64, 64
+  offset: 2, 0
+  index: -1
+hh_13
+  rotate: false
+  xy: 66, 44
+  size: 56, 54
+  orig: 64, 64
+  offset: 4, 0
+  index: -1
+hh_14
+  rotate: false
+  xy: 2, 40
+  size: 52, 52
+  orig: 64, 64
+  offset: 6, 2
+  index: -1
+hh_15
+  rotate: true
+  xy: 2, 2
+  size: 36, 50
+  orig: 64, 64
+  offset: 20, 6
+  index: -1
+hh_16
+  rotate: false
+  xy: 174, 70
+  size: 24, 44
+  orig: 64, 64
+  offset: 22, 12
+  index: -1
+huo1
+  rotate: true
+  xy: 186, 195
+  size: 25, 23
+  orig: 25, 25
+  offset: 0, 1
+  index: -1

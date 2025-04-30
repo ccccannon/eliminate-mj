@@ -1,0 +1,48 @@
+
+hit_zhuaji01.png
+size: 209,209
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/Eff_fangshe_173
+  rotate: false
+  xy: 2, 79
+  size: 124, 128
+  orig: 135, 149
+  offset: 0, 11
+  index: -1
+effect/baoqi_001
+  rotate: true
+  xy: 2, 21
+  size: 56, 85
+  orig: 62, 94
+  offset: 1, 4
+  index: -1
+effect/baoqi_002
+  rotate: true
+  xy: 128, 64
+  size: 62, 78
+  orig: 62, 86
+  offset: 0, 4
+  index: -1
+effect/lizi01
+  rotate: false
+  xy: 89, 31
+  size: 20, 21
+  orig: 22, 24
+  offset: 1, 2
+  index: -1
+effect/lizi02
+  rotate: false
+  xy: 89, 54
+  size: 22, 23
+  orig: 24, 25
+  offset: 1, 1
+  index: -1
+effect/shuimo_00020
+  rotate: false
+  xy: 128, 128
+  size: 79, 79
+  orig: 80, 80
+  offset: 1, 0
+  index: -1
