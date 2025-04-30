@@ -1,0 +1,795 @@
+{
+    "importBase": "import",
+    "nativeBase": "native",
+    "name": "resources",
+    "deps": [],
+    "uuids": [
+        "02134fc6-8600-442b-b202-ee4b77a1e7e3@f9941",
+        "032864d67",
+        "0564cbbe0",
+        "06930200-32ae-49c2-aaf6-6c107fe159c4@f9941",
+        "06942a20-0474-4385-9a85-293366d2473e",
+        "06942a20-0474-4385-9a85-293366d2473e@6c48a",
+        "06942a20-0474-4385-9a85-293366d2473e@f9941",
+        "06b7323f-a13c-4f76-971f-4a376f53373e@f9941",
+        "0906c93a-0bb6-4316-af1d-ab50d1188f26@f9941",
+        "092a8ef7a",
+        "096279352",
+        "0a3b69e11",
+        "0ab1403b-a950-4811-97a1-02e980819f2b",
+        "0ab1403b-a950-4811-97a1-02e980819f2b@6c48a",
+        "0ab1403b-a950-4811-97a1-02e980819f2b@f9941",
+        "0b358256-c4d7-453c-856a-f885ce039d61@f9941",
+        "0b9cc4f55",
+        "0eccd089-df55-4562-b3af-4f460de066e1@f9941",
+        "0ee06d7c8",
+        "10285c1d-979d-4a7e-80c0-86e0dc2a65d8",
+        "107a7390-e852-4f07-a3c7-249f6dec3f76@f9941",
+        "180d94353",
+        "180d94353@6c48a",
+        "1a3b69e11",
+        "1a3b69e11@6c48a",
+        "1cc51440-4ec5-4eca-b278-c0ac51af555e",
+        "1cc51440-4ec5-4eca-b278-c0ac51af555e@6c48a",
+        "1cc51440-4ec5-4eca-b278-c0ac51af555e@f9941",
+        "1f02f128-0b4b-4ac2-b314-01968843fe0f",
+        "1f02f128-0b4b-4ac2-b314-01968843fe0f@6c48a",
+        "1f02f128-0b4b-4ac2-b314-01968843fe0f@f9941",
+        "20835ba4-6145-4fbc-a58a-051ce700aa3e",
+        "20835ba4-6145-4fbc-a58a-051ce700aa3e@6c48a",
+        "20835ba4-6145-4fbc-a58a-051ce700aa3e@f9941",
+        "20cdd03f-7582-4c26-9238-81f1d376e112@f9941",
+        "23eb746b-739d-406b-a9bc-18627d673ef9@f9941",
+        "2501cdfd-ca13-49a6-9c23-ea51586c54c4",
+        "2612277c-2bbf-4e2c-9110-3dfd31e0c091@f9941",
+        "2c33b059-b299-4ce8-8c7d-fc0b02599431",
+        "2cd8c219-2f11-4828-8b5e-a015f19ade77@f9941",
+        "31050c4e-7778-46f5-af7e-b99b989601b5@f9941",
+        "38846a2b-b964-4958-80c0-9b9ed6717e56@f9941",
+        "39dcc2b4-a72e-4bee-8130-d42865aca96a",
+        "39dcc2b4-a72e-4bee-8130-d42865aca96a@6c48a",
+        "39dcc2b4-a72e-4bee-8130-d42865aca96a@f9941",
+        "3ddbdff0-3841-4265-995b-c4364b1c18d3",
+        "423aa100-7bc2-4b6a-86db-ec2a255bc8f7@f9941",
+        "4629243c-793b-4ff8-94ea-3709ff32a2b6@f9941",
+        "4cecde51-d46d-4b20-b02e-e58f063ec56f",
+        "544e49d6-3f05-4fa8-9a9e-091f98fc2ce8",
+        "544e49d6-3f05-4fa8-9a9e-091f98fc2ce8@6c48a",
+        "544e49d6-3f05-4fa8-9a9e-091f98fc2ce8@f9941",
+        "54c028c9-ffd1-437d-ab67-1eac1fe0f9ac@f9941",
+        "56a0bfc3-686d-4e85-bb26-5f5a6855ae06",
+        "56a0bfc3-686d-4e85-bb26-5f5a6855ae06@6c48a",
+        "56a0bfc3-686d-4e85-bb26-5f5a6855ae06@f9941",
+        "56eac174-8441-420d-99ff-7a6ba54159da@f9941",
+        "57520716-48c8-4a19-8acf-41c9f8777fb0",
+        "57520716-48c8-4a19-8acf-41c9f8777fb0@6c48a",
+        "57520716-48c8-4a19-8acf-41c9f8777fb0@f9941",
+        "57a1058b-f028-4583-8820-c2d9965d5eb8@f9941",
+        "5ce64efa-e2ed-4777-a064-e92a3be9e7a6@f9941",
+        "646a892f-1ea8-4b4b-ab04-32898fbb6b1d@f9941",
+        "68a3f36f-4f37-4e72-81a0-0b4aded41c75",
+        "68aa1eb3-d120-4fea-b615-b616809e97b8@f9941",
+        "68b69c7f-64a3-4f25-96a6-90913da6bdd0",
+        "6a42a74b-4fcd-46dd-b418-eb2418a8adf2@f9941",
+        "6ad4d0d8-e4f4-49e8-a99c-1de2c379b095@f9941",
+        "6e9523f3-4005-4f27-a8e6-01c9f92be787@f9941",
+        "7011db1b-c11a-499f-8be6-8b4f9d133b5e@f9941",
+        "7356e28e-5302-4cdb-af58-f5726a7a90bd@f9941",
+        "76ba4f9c-00dc-4d67-89bc-7a0dd90c0242@f9941",
+        "7781b3f4-8514-42a6-bbc9-394df4f90b9d",
+        "8147834c-0ad9-41f1-9241-a1e462e72ee4@f9941",
+        "81d91cc9-3ec5-48cf-a85f-8aa9991f3607@f9941",
+        "86f7d0ff-a1fe-409e-a22f-afcf97e12f21@f9941",
+        "8c39a40b-f2ba-40f9-b0cd-ebb9775222ac@f9941",
+        "8c60edfe-1501-4d08-86bd-98e97b83ab47@f9941",
+        "8e5de190-0aee-4851-beb9-efe2d862a182",
+        "950282c0-cf2f-43ed-8fe7-f19ab4a2b9df@f9941",
+        "951249e0-9f16-456d-8b85-a6ca954da16b",
+        "951249e0-9f16-456d-8b85-a6ca954da16b@6c48a",
+        "951249e0-9f16-456d-8b85-a6ca954da16b@f9941",
+        "97728ff5-d03a-4a70-9e5a-76f7ff8ab306@f9941",
+        "9850d233-935f-4c77-8de2-2c29fb704be3@f9941",
+        "9cc71d8c-192a-4234-8204-352f42b95c65",
+        "9da425b5-3ef6-441c-b498-94a95460a92d@f9941",
+        "9f3fe504-8dd1-4d25-9111-6239b190eae4@f9941",
+        "a19d370d-e4b2-439f-b639-0b025aaa2517",
+        "a19d370d-e4b2-439f-b639-0b025aaa2517@6c48a",
+        "a19d370d-e4b2-439f-b639-0b025aaa2517@f9941",
+        "a23817fa-51e6-4c53-a2c3-38461dbccf77",
+        "a493b754-e95f-4e2e-866c-bcb12fe74ba8@f9941",
+        "a7fbbba3-e6e3-401e-97b0-649a629bc4aa@f9941",
+        "aa089f8b-bb07-4713-baa1-2db9c4cdb489",
+        "aae98ff9-964e-491a-b1d5-29682026a688@f9941",
+        "b6b97d0a-eb98-4053-a35f-b44d34b185e7",
+        "b6b97d0a-eb98-4053-a35f-b44d34b185e7@6c48a",
+        "b6b97d0a-eb98-4053-a35f-b44d34b185e7@f9941",
+        "b8bdd4c5-ceea-4b7a-98d9-e54aa41bef22",
+        "b8bdd4c5-ceea-4b7a-98d9-e54aa41bef22@6c48a",
+        "b8bdd4c5-ceea-4b7a-98d9-e54aa41bef22@f9941",
+        "c04cfe54-cef3-42ec-bdf0-bef439e51af1@f9941",
+        "d194bea0-094c-4488-95ea-c6d1c044cf6e@f9941",
+        "d1963c84-09fe-486d-84fc-a17d7f476d25@f9941",
+        "d4c735c4-0564-483e-91cf-6834f622ac17@f9941",
+        "d5c86e9a-8c93-40d0-bf4c-5e8a16f52ee3@f9941",
+        "dc166fc9-5889-4bc0-b346-114234659a32@f9941",
+        "e24f7bcf-f4e0-40ee-9e59-6b00f437c828@f9941",
+        "e59bf161-39eb-4140-b061-b77c9cc40132@f9941",
+        "ea7c9fb0-95c7-4484-970c-9edd6dd5ccd5",
+        "eb4d7007-7a6b-42d0-98a7-cbb6bcb7172a@f9941",
+        "eeb2b38a-4168-42cd-806d-8f82c3beea8e@f9941",
+        "ef58b575-d5bd-4b6b-ac05-6364e90ff8fc",
+        "ef58b575-d5bd-4b6b-ac05-6364e90ff8fc@6c48a",
+        "ef58b575-d5bd-4b6b-ac05-6364e90ff8fc@f9941",
+        "f29b222a-34da-4b50-b4f3-9f93c0128896",
+        "f29b222a-34da-4b50-b4f3-9f93c0128896@6c48a",
+        "f29b222a-34da-4b50-b4f3-9f93c0128896@f9941",
+        "fb1f0a6c-d205-468b-bf00-bef87b12d090@f9941"
+    ],
+    "paths": {
+        "7781b3f4-8514-42a6-bbc9-394df4f90b9d": [
+            "music/bgMusic",
+            "cc.AudioClip"
+        ],
+        "f29b222a-34da-4b50-b4f3-9f93c0128896": [
+            "ui/bg",
+            "cc.ImageAsset"
+        ],
+        "f29b222a-34da-4b50-b4f3-9f93c0128896@6c48a": [
+            "ui/bg/texture",
+            "cc.Texture2D",
+            1
+        ],
+        "f29b222a-34da-4b50-b4f3-9f93c0128896@f9941": [
+            "ui/bg/spriteFrame",
+            "cc.SpriteFrame",
+            1
+        ],
+        "4cecde51-d46d-4b20-b02e-e58f063ec56f": [
+            "anim/tips/notify",
+            "cc.AnimationClip"
+        ],
+        "aa089f8b-bb07-4713-baa1-2db9c4cdb489": [
+            "dataconfig/common/ui_root_ex",
+            "cc.Prefab"
+        ],
+        "ea7c9fb0-95c7-4484-970c-9edd6dd5ccd5": [
+            "prefab/ui/PnlMahjong",
+            "cc.Prefab"
+        ],
+        "8e5de190-0aee-4851-beb9-efe2d862a182": [
+            "prefab/ui/PnlMenu",
+            "cc.Prefab"
+        ],
+        "68a3f36f-4f37-4e72-81a0-0b4aded41c75": [
+            "prefab/ui/PnlOver",
+            "cc.Prefab"
+        ],
+        "3ddbdff0-3841-4265-995b-c4364b1c18d3": [
+            "prefab/ui/PnlSystem",
+            "cc.Prefab"
+        ],
+        "2c33b059-b299-4ce8-8c7d-fc0b02599431": [
+            "prefab/ui/PnlTitle",
+            "cc.Prefab"
+        ],
+        "10285c1d-979d-4a7e-80c0-86e0dc2a65d8": [
+            "prefab/ui/tips/PnlComTextTips",
+            "cc.Prefab"
+        ],
+        "2501cdfd-ca13-49a6-9c23-ea51586c54c4": [
+            "prefab/ui/tips/PnlComWinTips",
+            "cc.Prefab"
+        ],
+        "68b69c7f-64a3-4f25-96a6-90913da6bdd0": [
+            "prefab/ui/tips/PnlErrorTip",
+            "cc.Prefab"
+        ],
+        "9cc71d8c-192a-4234-8204-352f42b95c65": [
+            "prefab/ui/tips/PnlWaiting",
+            "cc.Prefab"
+        ],
+        "54c028c9-ffd1-437d-ab67-1eac1fe0f9ac@f9941": [
+            "ui/Atlas/mahjong/0101/spriteFrame",
+            "cc.SpriteFrame",
+            1
+        ],
+        "646a892f-1ea8-4b4b-ab04-32898fbb6b1d@f9941": [
+            "ui/Atlas/mahjong/0102/spriteFrame",
+            "cc.SpriteFrame",
+            1
+        ],
+        "76ba4f9c-00dc-4d67-89bc-7a0dd90c0242@f9941": [
+            "ui/Atlas/mahjong/0103/spriteFrame",
+            "cc.SpriteFrame",
+            1
+        ],
+        "38846a2b-b964-4958-80c0-9b9ed6717e56@f9941": [
+            "ui/Atlas/mahjong/0104/spriteFrame",
+            "cc.SpriteFrame",
+            1
+        ],
+        "57a1058b-f028-4583-8820-c2d9965d5eb8@f9941": [
+            "ui/Atlas/mahjong/0105/spriteFrame",
+            "cc.SpriteFrame",
+            1
+        ],
+        "9da425b5-3ef6-441c-b498-94a95460a92d@f9941": [
+            "ui/Atlas/mahjong/0106/spriteFrame",
+            "cc.SpriteFrame",
+            1
+        ],
+        "950282c0-cf2f-43ed-8fe7-f19ab4a2b9df@f9941": [
+            "ui/Atlas/mahjong/0107/spriteFrame",
+            "cc.SpriteFrame",
+            1
+        ],
+        "8147834c-0ad9-41f1-9241-a1e462e72ee4@f9941": [
+            "ui/Atlas/mahjong/0108/spriteFrame",
+            "cc.SpriteFrame",
+            1
+        ],
+        "0eccd089-df55-4562-b3af-4f460de066e1@f9941": [
+            "ui/Atlas/mahjong/0109/spriteFrame",
+            "cc.SpriteFrame",
+            1
+        ],
+        "81d91cc9-3ec5-48cf-a85f-8aa9991f3607@f9941": [
+            "ui/Atlas/mahjong/0201/spriteFrame",
+            "cc.SpriteFrame",
+            1
+        ],
+        "23eb746b-739d-406b-a9bc-18627d673ef9@f9941": [
+            "ui/Atlas/mahjong/0202/spriteFrame",
+            "cc.SpriteFrame",
+            1
+        ],
+        "a493b754-e95f-4e2e-866c-bcb12fe74ba8@f9941": [
+            "ui/Atlas/mahjong/0203/spriteFrame",
+            "cc.SpriteFrame",
+            1
+        ],
+        "eb4d7007-7a6b-42d0-98a7-cbb6bcb7172a@f9941": [
+            "ui/Atlas/mahjong/0204/spriteFrame",
+            "cc.SpriteFrame",
+            1
+        ],
+        "107a7390-e852-4f07-a3c7-249f6dec3f76@f9941": [
+            "ui/Atlas/mahjong/0205/spriteFrame",
+            "cc.SpriteFrame",
+            1
+        ],
+        "6a42a74b-4fcd-46dd-b418-eb2418a8adf2@f9941": [
+            "ui/Atlas/mahjong/0206/spriteFrame",
+            "cc.SpriteFrame",
+            1
+        ],
+        "d1963c84-09fe-486d-84fc-a17d7f476d25@f9941": [
+            "ui/Atlas/mahjong/0207/spriteFrame",
+            "cc.SpriteFrame",
+            1
+        ],
+        "dc166fc9-5889-4bc0-b346-114234659a32@f9941": [
+            "ui/Atlas/mahjong/0208/spriteFrame",
+            "cc.SpriteFrame",
+            1
+        ],
+        "aae98ff9-964e-491a-b1d5-29682026a688@f9941": [
+            "ui/Atlas/mahjong/0209/spriteFrame",
+            "cc.SpriteFrame",
+            1
+        ],
+        "6ad4d0d8-e4f4-49e8-a99c-1de2c379b095@f9941": [
+            "ui/Atlas/mahjong/0301/spriteFrame",
+            "cc.SpriteFrame",
+            1
+        ],
+        "56eac174-8441-420d-99ff-7a6ba54159da@f9941": [
+            "ui/Atlas/mahjong/0302/spriteFrame",
+            "cc.SpriteFrame",
+            1
+        ],
+        "e24f7bcf-f4e0-40ee-9e59-6b00f437c828@f9941": [
+            "ui/Atlas/mahjong/0303/spriteFrame",
+            "cc.SpriteFrame",
+            1
+        ],
+        "c04cfe54-cef3-42ec-bdf0-bef439e51af1@f9941": [
+            "ui/Atlas/mahjong/0304/spriteFrame",
+            "cc.SpriteFrame",
+            1
+        ],
+        "2cd8c219-2f11-4828-8b5e-a015f19ade77@f9941": [
+            "ui/Atlas/mahjong/0305/spriteFrame",
+            "cc.SpriteFrame",
+            1
+        ],
+        "e59bf161-39eb-4140-b061-b77c9cc40132@f9941": [
+            "ui/Atlas/mahjong/0306/spriteFrame",
+            "cc.SpriteFrame",
+            1
+        ],
+        "eeb2b38a-4168-42cd-806d-8f82c3beea8e@f9941": [
+            "ui/Atlas/mahjong/0307/spriteFrame",
+            "cc.SpriteFrame",
+            1
+        ],
+        "31050c4e-7778-46f5-af7e-b99b989601b5@f9941": [
+            "ui/Atlas/mahjong/0308/spriteFrame",
+            "cc.SpriteFrame",
+            1
+        ],
+        "7011db1b-c11a-499f-8be6-8b4f9d133b5e@f9941": [
+            "ui/Atlas/mahjong/0309/spriteFrame",
+            "cc.SpriteFrame",
+            1
+        ],
+        "2612277c-2bbf-4e2c-9110-3dfd31e0c091@f9941": [
+            "ui/Atlas/mahjong/0401/spriteFrame",
+            "cc.SpriteFrame",
+            1
+        ],
+        "0b358256-c4d7-453c-856a-f885ce039d61@f9941": [
+            "ui/Atlas/mahjong/0402/spriteFrame",
+            "cc.SpriteFrame",
+            1
+        ],
+        "a7fbbba3-e6e3-401e-97b0-649a629bc4aa@f9941": [
+            "ui/Atlas/mahjong/0403/spriteFrame",
+            "cc.SpriteFrame",
+            1
+        ],
+        "06b7323f-a13c-4f76-971f-4a376f53373e@f9941": [
+            "ui/Atlas/mahjong/0404/spriteFrame",
+            "cc.SpriteFrame",
+            1
+        ],
+        "9f3fe504-8dd1-4d25-9111-6239b190eae4@f9941": [
+            "ui/Atlas/mahjong/0501/spriteFrame",
+            "cc.SpriteFrame",
+            1
+        ],
+        "20cdd03f-7582-4c26-9238-81f1d376e112@f9941": [
+            "ui/Atlas/mahjong/0502/spriteFrame",
+            "cc.SpriteFrame",
+            1
+        ],
+        "97728ff5-d03a-4a70-9e5a-76f7ff8ab306@f9941": [
+            "ui/Atlas/mahjong/0503/spriteFrame",
+            "cc.SpriteFrame",
+            1
+        ],
+        "02134fc6-8600-442b-b202-ee4b77a1e7e3@f9941": [
+            "ui/Atlas/mahjong/0601/spriteFrame",
+            "cc.SpriteFrame",
+            1
+        ],
+        "8c60edfe-1501-4d08-86bd-98e97b83ab47@f9941": [
+            "ui/Atlas/mahjong/0602/spriteFrame",
+            "cc.SpriteFrame",
+            1
+        ],
+        "8c39a40b-f2ba-40f9-b0cd-ebb9775222ac@f9941": [
+            "ui/Atlas/mahjong/0603/spriteFrame",
+            "cc.SpriteFrame",
+            1
+        ],
+        "06930200-32ae-49c2-aaf6-6c107fe159c4@f9941": [
+            "ui/Atlas/mahjong/0604/spriteFrame",
+            "cc.SpriteFrame",
+            1
+        ],
+        "0906c93a-0bb6-4316-af1d-ab50d1188f26@f9941": [
+            "ui/Atlas/mahjong/0701/spriteFrame",
+            "cc.SpriteFrame",
+            1
+        ],
+        "d4c735c4-0564-483e-91cf-6834f622ac17@f9941": [
+            "ui/Atlas/mahjong/0702/spriteFrame",
+            "cc.SpriteFrame",
+            1
+        ],
+        "7356e28e-5302-4cdb-af58-f5726a7a90bd@f9941": [
+            "ui/Atlas/mahjong/0703/spriteFrame",
+            "cc.SpriteFrame",
+            1
+        ],
+        "68aa1eb3-d120-4fea-b615-b616809e97b8@f9941": [
+            "ui/Atlas/mahjong/0704/spriteFrame",
+            "cc.SpriteFrame",
+            1
+        ],
+        "d5c86e9a-8c93-40d0-bf4c-5e8a16f52ee3@f9941": [
+            "ui/Atlas/mahjong/UI_Mahjong_Image_Background_Blue/spriteFrame",
+            "cc.SpriteFrame",
+            1
+        ],
+        "423aa100-7bc2-4b6a-86db-ec2a255bc8f7@f9941": [
+            "ui/Atlas/mahjong/UI_Mahjong_Image_Background_Green/spriteFrame",
+            "cc.SpriteFrame",
+            1
+        ],
+        "4629243c-793b-4ff8-94ea-3709ff32a2b6@f9941": [
+            "ui/Atlas/mahjong/UI_Mahjong_Image_Background_White/spriteFrame",
+            "cc.SpriteFrame",
+            1
+        ],
+        "9850d233-935f-4c77-8de2-2c29fb704be3@f9941": [
+            "ui/Atlas/mahjong/UI_Mahjong_Image_Light_Hint/spriteFrame",
+            "cc.SpriteFrame",
+            1
+        ],
+        "fb1f0a6c-d205-468b-bf00-bef87b12d090@f9941": [
+            "ui/Atlas/mahjong/UI_Mahjong_Image_Light_Levitate/spriteFrame",
+            "cc.SpriteFrame",
+            1
+        ],
+        "6e9523f3-4005-4f27-a8e6-01c9f92be787@f9941": [
+            "ui/Atlas/mahjong/UI_Mahjong_Image_Light_Selected/spriteFrame",
+            "cc.SpriteFrame",
+            1
+        ],
+        "86f7d0ff-a1fe-409e-a22f-afcf97e12f21@f9941": [
+            "ui/Atlas/mahjong/UI_Mahjong_Image_Shade_Left/spriteFrame",
+            "cc.SpriteFrame",
+            1
+        ],
+        "d194bea0-094c-4488-95ea-c6d1c044cf6e@f9941": [
+            "ui/Atlas/mahjong/UI_Mahjong_Image_Shade_RightDown/spriteFrame",
+            "cc.SpriteFrame",
+            1
+        ],
+        "5ce64efa-e2ed-4777-a064-e92a3be9e7a6@f9941": [
+            "ui/Atlas/mahjong/UI_Mahjong_Image_Shade_Up/spriteFrame",
+            "cc.SpriteFrame",
+            1
+        ],
+        "a23817fa-51e6-4c53-a2c3-38461dbccf77": [
+            "ui/Atlas/tips/auto-atlas",
+            "cc.SpriteAtlas"
+        ],
+        "56a0bfc3-686d-4e85-bb26-5f5a6855ae06": [
+            "ui/Atlas/tips/btn_ok",
+            "cc.ImageAsset"
+        ],
+        "56a0bfc3-686d-4e85-bb26-5f5a6855ae06@6c48a": [
+            "ui/Atlas/tips/btn_ok/texture",
+            "cc.Texture2D",
+            1
+        ],
+        "56a0bfc3-686d-4e85-bb26-5f5a6855ae06@f9941": [
+            "ui/Atlas/tips/btn_ok/spriteFrame",
+            "cc.SpriteFrame",
+            1
+        ],
+        "a19d370d-e4b2-439f-b639-0b025aaa2517": [
+            "ui/Atlas/tips/bx_btn_blue",
+            "cc.ImageAsset"
+        ],
+        "a19d370d-e4b2-439f-b639-0b025aaa2517@6c48a": [
+            "ui/Atlas/tips/bx_btn_blue/texture",
+            "cc.Texture2D",
+            1
+        ],
+        "a19d370d-e4b2-439f-b639-0b025aaa2517@f9941": [
+            "ui/Atlas/tips/bx_btn_blue/spriteFrame",
+            "cc.SpriteFrame",
+            1
+        ],
+        "0ab1403b-a950-4811-97a1-02e980819f2b": [
+            "ui/Atlas/tips/bx_btn_yellow",
+            "cc.ImageAsset"
+        ],
+        "0ab1403b-a950-4811-97a1-02e980819f2b@6c48a": [
+            "ui/Atlas/tips/bx_btn_yellow/texture",
+            "cc.Texture2D",
+            1
+        ],
+        "0ab1403b-a950-4811-97a1-02e980819f2b@f9941": [
+            "ui/Atlas/tips/bx_btn_yellow/spriteFrame",
+            "cc.SpriteFrame",
+            1
+        ],
+        "b8bdd4c5-ceea-4b7a-98d9-e54aa41bef22": [
+            "ui/Atlas/tips/bx_tk_small",
+            "cc.ImageAsset"
+        ],
+        "b8bdd4c5-ceea-4b7a-98d9-e54aa41bef22@6c48a": [
+            "ui/Atlas/tips/bx_tk_small/texture",
+            "cc.Texture2D",
+            1
+        ],
+        "b8bdd4c5-ceea-4b7a-98d9-e54aa41bef22@f9941": [
+            "ui/Atlas/tips/bx_tk_small/spriteFrame",
+            "cc.SpriteFrame",
+            1
+        ],
+        "1cc51440-4ec5-4eca-b278-c0ac51af555e": [
+            "ui/Atlas/tips/error",
+            "cc.ImageAsset"
+        ],
+        "1cc51440-4ec5-4eca-b278-c0ac51af555e@6c48a": [
+            "ui/Atlas/tips/error/texture",
+            "cc.Texture2D",
+            1
+        ],
+        "1cc51440-4ec5-4eca-b278-c0ac51af555e@f9941": [
+            "ui/Atlas/tips/error/spriteFrame",
+            "cc.SpriteFrame",
+            1
+        ],
+        "1f02f128-0b4b-4ac2-b314-01968843fe0f": [
+            "ui/Atlas/tips/errorBg",
+            "cc.ImageAsset"
+        ],
+        "1f02f128-0b4b-4ac2-b314-01968843fe0f@6c48a": [
+            "ui/Atlas/tips/errorBg/texture",
+            "cc.Texture2D",
+            1
+        ],
+        "1f02f128-0b4b-4ac2-b314-01968843fe0f@f9941": [
+            "ui/Atlas/tips/errorBg/spriteFrame",
+            "cc.SpriteFrame",
+            1
+        ],
+        "b6b97d0a-eb98-4053-a35f-b44d34b185e7": [
+            "ui/Atlas/tips/hong",
+            "cc.ImageAsset"
+        ],
+        "b6b97d0a-eb98-4053-a35f-b44d34b185e7@6c48a": [
+            "ui/Atlas/tips/hong/texture",
+            "cc.Texture2D",
+            1
+        ],
+        "b6b97d0a-eb98-4053-a35f-b44d34b185e7@f9941": [
+            "ui/Atlas/tips/hong/spriteFrame",
+            "cc.SpriteFrame",
+            1
+        ],
+        "39dcc2b4-a72e-4bee-8130-d42865aca96a": [
+            "ui/Atlas/tips/juxing1",
+            "cc.ImageAsset"
+        ],
+        "39dcc2b4-a72e-4bee-8130-d42865aca96a@6c48a": [
+            "ui/Atlas/tips/juxing1/texture",
+            "cc.Texture2D",
+            1
+        ],
+        "39dcc2b4-a72e-4bee-8130-d42865aca96a@f9941": [
+            "ui/Atlas/tips/juxing1/spriteFrame",
+            "cc.SpriteFrame",
+            1
+        ],
+        "06942a20-0474-4385-9a85-293366d2473e": [
+            "ui/Atlas/tips/loading",
+            "cc.ImageAsset"
+        ],
+        "06942a20-0474-4385-9a85-293366d2473e@6c48a": [
+            "ui/Atlas/tips/loading/texture",
+            "cc.Texture2D",
+            1
+        ],
+        "06942a20-0474-4385-9a85-293366d2473e@f9941": [
+            "ui/Atlas/tips/loading/spriteFrame",
+            "cc.SpriteFrame",
+            1
+        ],
+        "ef58b575-d5bd-4b6b-ac05-6364e90ff8fc": [
+            "ui/Atlas/tips/toast",
+            "cc.ImageAsset"
+        ],
+        "ef58b575-d5bd-4b6b-ac05-6364e90ff8fc@6c48a": [
+            "ui/Atlas/tips/toast/texture",
+            "cc.Texture2D",
+            1
+        ],
+        "ef58b575-d5bd-4b6b-ac05-6364e90ff8fc@f9941": [
+            "ui/Atlas/tips/toast/spriteFrame",
+            "cc.SpriteFrame",
+            1
+        ]
+    },
+    "scenes": {},
+    "packs": {
+        "096279352": [
+            "0ab1403b-a950-4811-97a1-02e980819f2b",
+            "1a3b69e11",
+            "1cc51440-4ec5-4eca-b278-c0ac51af555e",
+            "1f02f128-0b4b-4ac2-b314-01968843fe0f",
+            "39dcc2b4-a72e-4bee-8130-d42865aca96a",
+            "56a0bfc3-686d-4e85-bb26-5f5a6855ae06",
+            "180d94353",
+            "544e49d6-3f05-4fa8-9a9e-091f98fc2ce8",
+            "06942a20-0474-4385-9a85-293366d2473e",
+            "20835ba4-6145-4fbc-a58a-051ce700aa3e",
+            "951249e0-9f16-456d-8b85-a6ca954da16b",
+            "57520716-48c8-4a19-8acf-41c9f8777fb0",
+            "a19d370d-e4b2-439f-b639-0b025aaa2517",
+            "b6b97d0a-eb98-4053-a35f-b44d34b185e7",
+            "b8bdd4c5-ceea-4b7a-98d9-e54aa41bef22",
+            "ef58b575-d5bd-4b6b-ac05-6364e90ff8fc",
+            "f29b222a-34da-4b50-b4f3-9f93c0128896"
+        ],
+        "0b9cc4f55": [
+            "ea7c9fb0-95c7-4484-970c-9edd6dd5ccd5",
+            "f29b222a-34da-4b50-b4f3-9f93c0128896@f9941"
+        ],
+        "0564cbbe0": [
+            "20835ba4-6145-4fbc-a58a-051ce700aa3e@f9941",
+            "544e49d6-3f05-4fa8-9a9e-091f98fc2ce8@f9941",
+            "57520716-48c8-4a19-8acf-41c9f8777fb0@f9941",
+            "8e5de190-0aee-4851-beb9-efe2d862a182",
+            "951249e0-9f16-456d-8b85-a6ca954da16b@f9941"
+        ],
+        "092a8ef7a": [
+            "39dcc2b4-a72e-4bee-8130-d42865aca96a@f9941",
+            "68b69c7f-64a3-4f25-96a6-90913da6bdd0"
+        ],
+        "032864d67": [
+            "0ab1403b-a950-4811-97a1-02e980819f2b@6c48a",
+            "1a3b69e11@6c48a",
+            "1cc51440-4ec5-4eca-b278-c0ac51af555e@6c48a",
+            "1f02f128-0b4b-4ac2-b314-01968843fe0f@6c48a",
+            "39dcc2b4-a72e-4bee-8130-d42865aca96a@6c48a",
+            "56a0bfc3-686d-4e85-bb26-5f5a6855ae06@6c48a",
+            "180d94353@6c48a",
+            "544e49d6-3f05-4fa8-9a9e-091f98fc2ce8@6c48a",
+            "06942a20-0474-4385-9a85-293366d2473e@6c48a",
+            "20835ba4-6145-4fbc-a58a-051ce700aa3e@6c48a",
+            "951249e0-9f16-456d-8b85-a6ca954da16b@6c48a",
+            "57520716-48c8-4a19-8acf-41c9f8777fb0@6c48a",
+            "a19d370d-e4b2-439f-b639-0b025aaa2517@6c48a",
+            "b6b97d0a-eb98-4053-a35f-b44d34b185e7@6c48a",
+            "b8bdd4c5-ceea-4b7a-98d9-e54aa41bef22@6c48a",
+            "ef58b575-d5bd-4b6b-ac05-6364e90ff8fc@6c48a",
+            "f29b222a-34da-4b50-b4f3-9f93c0128896@6c48a"
+        ],
+        "0ee06d7c8": [
+            "06942a20-0474-4385-9a85-293366d2473e@f9941",
+            "0ab1403b-a950-4811-97a1-02e980819f2b@f9941",
+            "1cc51440-4ec5-4eca-b278-c0ac51af555e@f9941",
+            "1f02f128-0b4b-4ac2-b314-01968843fe0f@f9941",
+            "56a0bfc3-686d-4e85-bb26-5f5a6855ae06@f9941",
+            "a19d370d-e4b2-439f-b639-0b025aaa2517@f9941",
+            "a23817fa-51e6-4c53-a2c3-38461dbccf77",
+            "b6b97d0a-eb98-4053-a35f-b44d34b185e7@f9941",
+            "b8bdd4c5-ceea-4b7a-98d9-e54aa41bef22@f9941",
+            "ef58b575-d5bd-4b6b-ac05-6364e90ff8fc@f9941"
+        ],
+        "0a3b69e11": [
+            "02134fc6-8600-442b-b202-ee4b77a1e7e3@f9941",
+            "06930200-32ae-49c2-aaf6-6c107fe159c4@f9941",
+            "06b7323f-a13c-4f76-971f-4a376f53373e@f9941",
+            "0906c93a-0bb6-4316-af1d-ab50d1188f26@f9941",
+            "0b358256-c4d7-453c-856a-f885ce039d61@f9941",
+            "0eccd089-df55-4562-b3af-4f460de066e1@f9941",
+            "107a7390-e852-4f07-a3c7-249f6dec3f76@f9941",
+            "20cdd03f-7582-4c26-9238-81f1d376e112@f9941",
+            "23eb746b-739d-406b-a9bc-18627d673ef9@f9941",
+            "2612277c-2bbf-4e2c-9110-3dfd31e0c091@f9941",
+            "2cd8c219-2f11-4828-8b5e-a015f19ade77@f9941",
+            "31050c4e-7778-46f5-af7e-b99b989601b5@f9941",
+            "38846a2b-b964-4958-80c0-9b9ed6717e56@f9941",
+            "423aa100-7bc2-4b6a-86db-ec2a255bc8f7@f9941",
+            "4629243c-793b-4ff8-94ea-3709ff32a2b6@f9941",
+            "54c028c9-ffd1-437d-ab67-1eac1fe0f9ac@f9941",
+            "56eac174-8441-420d-99ff-7a6ba54159da@f9941",
+            "57a1058b-f028-4583-8820-c2d9965d5eb8@f9941",
+            "5ce64efa-e2ed-4777-a064-e92a3be9e7a6@f9941",
+            "646a892f-1ea8-4b4b-ab04-32898fbb6b1d@f9941",
+            "68aa1eb3-d120-4fea-b615-b616809e97b8@f9941",
+            "6a42a74b-4fcd-46dd-b418-eb2418a8adf2@f9941",
+            "6ad4d0d8-e4f4-49e8-a99c-1de2c379b095@f9941",
+            "6e9523f3-4005-4f27-a8e6-01c9f92be787@f9941",
+            "7011db1b-c11a-499f-8be6-8b4f9d133b5e@f9941",
+            "7356e28e-5302-4cdb-af58-f5726a7a90bd@f9941",
+            "76ba4f9c-00dc-4d67-89bc-7a0dd90c0242@f9941",
+            "8147834c-0ad9-41f1-9241-a1e462e72ee4@f9941",
+            "81d91cc9-3ec5-48cf-a85f-8aa9991f3607@f9941",
+            "86f7d0ff-a1fe-409e-a22f-afcf97e12f21@f9941",
+            "8c39a40b-f2ba-40f9-b0cd-ebb9775222ac@f9941",
+            "8c60edfe-1501-4d08-86bd-98e97b83ab47@f9941",
+            "950282c0-cf2f-43ed-8fe7-f19ab4a2b9df@f9941",
+            "97728ff5-d03a-4a70-9e5a-76f7ff8ab306@f9941",
+            "9850d233-935f-4c77-8de2-2c29fb704be3@f9941",
+            "9da425b5-3ef6-441c-b498-94a95460a92d@f9941",
+            "9f3fe504-8dd1-4d25-9111-6239b190eae4@f9941",
+            "a493b754-e95f-4e2e-866c-bcb12fe74ba8@f9941",
+            "a7fbbba3-e6e3-401e-97b0-649a629bc4aa@f9941",
+            "aae98ff9-964e-491a-b1d5-29682026a688@f9941",
+            "c04cfe54-cef3-42ec-bdf0-bef439e51af1@f9941",
+            "d194bea0-094c-4488-95ea-c6d1c044cf6e@f9941",
+            "d1963c84-09fe-486d-84fc-a17d7f476d25@f9941",
+            "d4c735c4-0564-483e-91cf-6834f622ac17@f9941",
+            "d5c86e9a-8c93-40d0-bf4c-5e8a16f52ee3@f9941",
+            "dc166fc9-5889-4bc0-b346-114234659a32@f9941",
+            "e24f7bcf-f4e0-40ee-9e59-6b00f437c828@f9941",
+            "e59bf161-39eb-4140-b061-b77c9cc40132@f9941",
+            "eb4d7007-7a6b-42d0-98a7-cbb6bcb7172a@f9941",
+            "eeb2b38a-4168-42cd-806d-8f82c3beea8e@f9941",
+            "fb1f0a6c-d205-468b-bf00-bef87b12d090@f9941"
+        ]
+    },
+    "versions": {
+        "import": [
+            "032864d67",
+            "354c0",
+            "0564cbbe0",
+            "65de5",
+            "092a8ef7a",
+            "a344b",
+            "096279352",
+            "09740",
+            "0a3b69e11",
+            "86933",
+            "0b9cc4f55",
+            "dc108",
+            "0ee06d7c8",
+            "be7de",
+            "10285c1d-979d-4a7e-80c0-86e0dc2a65d8",
+            "dc16f",
+            "2501cdfd-ca13-49a6-9c23-ea51586c54c4",
+            "1ed24",
+            "2c33b059-b299-4ce8-8c7d-fc0b02599431",
+            "fec78",
+            "3ddbdff0-3841-4265-995b-c4364b1c18d3",
+            "52e55",
+            "4cecde51-d46d-4b20-b02e-e58f063ec56f",
+            "2f800",
+            "68a3f36f-4f37-4e72-81a0-0b4aded41c75",
+            "95d01",
+            "7781b3f4-8514-42a6-bbc9-394df4f90b9d",
+            "bc48c",
+            "9cc71d8c-192a-4234-8204-352f42b95c65",
+            "de681",
+            "aa089f8b-bb07-4713-baa1-2db9c4cdb489",
+            "ea491"
+        ],
+        "native": [
+            "06942a20-0474-4385-9a85-293366d2473e",
+            "4fdc7",
+            "0ab1403b-a950-4811-97a1-02e980819f2b",
+            "7ea4f",
+            "180d94353",
+            "c3c9d",
+            "1a3b69e11",
+            "ebfd6",
+            "1cc51440-4ec5-4eca-b278-c0ac51af555e",
+            "bb2ac",
+            "1f02f128-0b4b-4ac2-b314-01968843fe0f",
+            "659cb",
+            "20835ba4-6145-4fbc-a58a-051ce700aa3e",
+            "90cf4",
+            "39dcc2b4-a72e-4bee-8130-d42865aca96a",
+            "aeab4",
+            "544e49d6-3f05-4fa8-9a9e-091f98fc2ce8",
+            "83fcc",
+            "56a0bfc3-686d-4e85-bb26-5f5a6855ae06",
+            "73f79",
+            "57520716-48c8-4a19-8acf-41c9f8777fb0",
+            "6d3cf",
+            "7781b3f4-8514-42a6-bbc9-394df4f90b9d",
+            "cafa1",
+            "951249e0-9f16-456d-8b85-a6ca954da16b",
+            "c06a9",
+            "a19d370d-e4b2-439f-b639-0b025aaa2517",
+            "d30fe",
+            "b6b97d0a-eb98-4053-a35f-b44d34b185e7",
+            "fab9b",
+            "b8bdd4c5-ceea-4b7a-98d9-e54aa41bef22",
+            "a3ba6",
+            "ef58b575-d5bd-4b6b-ac05-6364e90ff8fc",
+            "49cca",
+            "f29b222a-34da-4b50-b4f3-9f93c0128896",
+            "e5a4f"
+        ]
+    },
+    "redirect": [],
+    "debug": true,
+    "extensionMap": {
+        ".cconb": [
+            "4cecde51-d46d-4b20-b02e-e58f063ec56f",
+            "4cecde51-d46d-4b20-b02e-e58f063ec56f"
+        ]
+    },
+    "hasPreloadScript": true
+}
