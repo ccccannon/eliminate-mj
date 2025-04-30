@@ -1,27 +1,0 @@
-
-ui_iconpress默认
-"ui_viplevelupVIP升级音效
-"ui_virusinvasion病毒入侵
-ui_btn_close返回
-ui_decompose分解
-!ui_dungeonchose副本选择
- ui_combinecard合成卡牌
-	ui_reward奖励
-
-ui_levelup升级
-&	ui_propertychange属性值变化
-
-ui_death死亡
-	ui_addexp添加经验
-!ui_iconpress图标按键音
-'ui_evolution形象不变进化音
-ui_recombine重组
-!ui_equipenhance装备强化
-ui_wear装备
-ui_sell出售
-ui_iconpress普通按钮
-ui_iconpress图标按钮
-ui_btn_close返回按钮
-ui_btn_close标签按钮
-ui_btn_object道具按钮
-"ui_btn_startgame开始游戏
