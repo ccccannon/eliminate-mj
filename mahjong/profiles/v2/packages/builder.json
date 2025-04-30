@@ -4,8 +4,8 @@
     "level": 4
   },
   "common": {
-    "buildPath": "project://build",
-    "outputName": "web-mobile",
+    "buildPath": "E:\\project\\ccccannon\\eliminate-mj",
+    "outputName": "docs",
     "mainBundleCompressionType": "merge_dep",
     "platform": "web-mobile",
     "md5Cache": true,
@@ -19,11 +19,11 @@
         "progress": 1,
         "state": "success",
         "stage": "build",
-        "message": "2025-4-30 12:35:00 build success in 54878 ms!",
+        "message": "2025-4-30 16:54:28 build success in 14887 ms!",
         "options": {
           "name": "mahjong",
           "platform": "web-mobile",
-          "buildPath": "project://build",
+          "buildPath": "E:\\project\\ccccannon\\eliminate-mj",
           "debug": true,
           "md5Cache": true,
           "skipCompressTexture": false,
@@ -38,7 +38,7 @@
           "useSplashScreen": true,
           "packAutoAtlas": true,
           "startScene": "7c3e7fab-7b1e-4865-ba84-3cf81b48b9fb",
-          "outputName": "web-mobile",
+          "outputName": "docs",
           "scenes": [
             {
               "url": "db://assets/main.scene",
@@ -51,7 +51,7 @@
           "__version__": "1.3.4",
           "web-mobile": []
         },
-        "time": "2025-4-30 12:34",
+        "time": "2025-4-30 16:54",
         "dirty": false
       }
     }
