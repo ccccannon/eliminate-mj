@@ -156,8 +156,8 @@
     },
     "_lpos": {
       "__type__": "cc.Vec3",
-      "x": 900,
-      "y": -480,
+      "x": 520,
+      "y": 480,
       "z": 0
     },
     "_lrot": {
@@ -245,8 +245,8 @@
     },
     "_contentSize": {
       "__type__": "cc.Size",
-      "width": 100,
-      "height": 40
+      "width": 60,
+      "height": 50.4
     },
     "_anchorPoint": {
       "__type__": "cc.Vec2",
@@ -283,14 +283,17 @@
     "_string": "提示",
     "_horizontalAlign": 1,
     "_verticalAlign": 1,
-    "_actualFontSize": 20,
-    "_fontSize": 20,
+    "_actualFontSize": 30,
+    "_fontSize": 30,
     "_fontFamily": "Arial",
     "_lineHeight": 40,
-    "_overflow": 1,
+    "_overflow": 0,
     "_enableWrapText": false,
-    "_font": null,
-    "_isSystemFontUsed": true,
+    "_font": {
+      "__uuid__": "e09e613e-0c7e-4c3a-924e-adfbd3e9ae62",
+      "__expectedType__": "cc.TTFFont"
+    },
+    "_isSystemFontUsed": false,
     "_spacingX": 0,
     "_isItalic": false,
     "_isBold": false,
@@ -600,12 +603,12 @@
     "__prefab": {
       "__id__": 23
     },
-    "_alignFlags": 36,
+    "_alignFlags": 33,
     "_target": null,
     "_left": 604.951,
-    "_right": 20,
-    "_top": 0,
-    "_bottom": 20,
+    "_right": 400,
+    "_top": 20,
+    "_bottom": 979.8489999999999,
     "_horizontalCenter": 0,
     "_verticalCenter": 0,
     "_isAbsLeft": true,
@@ -615,7 +618,7 @@
     "_isAbsHorizontalCenter": true,
     "_isAbsVerticalCenter": true,
     "_originalWidth": 80,
-    "_originalHeight": 0,
+    "_originalHeight": 80,
     "_alignMode": 2,
     "_lockFlags": 0,
     "_id": ""
@@ -1013,8 +1016,6 @@
       "__id__": 0
     },
     "fileId": "3f+BvfPspF64YbNRMl5TZj",
-    "instance": null,
-    "targetOverrides": null,
     "nestedPrefabInstanceRoots": null
   },
   {
